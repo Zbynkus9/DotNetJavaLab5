@@ -7,13 +7,7 @@ Projekt zrealizowany w ramach laboratorium z przedmiotu Platformy Programistyczn
 2. **Algorytm optymalizacyjny:** Aplikacja konsolowa rozwiązująca nieograniczony problem plecakowy z wykorzystaniem algorytmu zachłannego (aproksymacyjnego).
 3. **Testy jednostkowe:** Weryfikacja logiki biznesowej aplikacji oraz poprawności wyników za pomocą frameworka JUnit 5.
 
-## 📷 Sugerowane zrzuty ekranu (do umieszczenia w repozytorium)
-
-* **Na ocenę 3.0:** Zrzut ekranu z konsoli pokazujący listę pomyślnie wygenerowanych przedmiotów (np. 10 elementów z wagą i wartością z odpowiedniego przedziału).
-* **Na ocenę 4.0:** Zrzut ekranu z konsoli pokazujący pełne działanie programu: wygenerowaną listę, a pod nią ostateczny wynik działania algorytmu (wybrane przedmioty, sumaryczna waga i wartość) – *odpowiednik Rysunku 3 z instrukcji*.
-* **Na ocenę 5.0:** Zrzut ekranu okna narzędziowego testów w IntelliJ (Run tool window) pokazujący zielone ptaszki przy wszystkich 4 zaliczonych testach jednostkowych klasy `ProblemTest`.
-
-## 🏗 Struktura Projektu i Kluczowe Klasy
+## Struktura Projektu i Kluczowe Klasy
 
 <img width="614" height="577" alt="image" src="https://github.com/user-attachments/assets/7d6f7b99-b30c-4346-a691-fad53cbcb0eb" />
 
