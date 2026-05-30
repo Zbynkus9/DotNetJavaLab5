@@ -15,6 +15,9 @@ Projekt zrealizowany w ramach laboratorium z przedmiotu Platformy Programistyczn
 
 ## 🏗 Struktura Projektu i Kluczowe Klasy
 
+<img width="614" height="577" alt="image" src="https://github.com/user-attachments/assets/7d6f7b99-b30c-4346-a691-fad53cbcb0eb" />
+
+
 ### Moduł problemu plecakowego
 * **`Item`**: Klasa reprezentująca pojedynczy przedmiot (zawiera ID, wagę oraz wartość). Posiada przeciążoną metodę `toString()`.
 * **`Problem`**: Główna klasa logiczna generatora.
